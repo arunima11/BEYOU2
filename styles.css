@@ -167,7 +167,7 @@ p{
 	}
 	.imageone{
 		position: static;
-		transform: rotate(0deg);
+		transform: rotate(0);
 	}
 
 }
