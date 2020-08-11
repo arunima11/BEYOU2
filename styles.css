@@ -35,6 +35,11 @@
 }
 .imageone{
 	width: 10%;
+	width: 77%; 
+	transform: rotate(15deg);
+	padding-bottom: 2%;  
+	position: absolute; 
+	padding-left: 5% ;
 }
 /*testimonial/description*/
 .love h2{
@@ -159,6 +164,10 @@ p{
 	}
 	#titile{
 		text-align: center;
+	}
+	.imageone{
+		position: static;
+		transform: rotate(0deg);
 	}
 
 }
